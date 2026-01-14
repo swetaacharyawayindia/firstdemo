@@ -30,9 +30,6 @@ This project acts as a **foundation** for building more advanced backend applica
 - **FastAPI:** 0.128.0 
 - **PostgreSQL:** 17  
 
-> Make sure PostgreSQL 17 is installed and running before starting the project.
-
----
 
 ## ✨ Features
 
