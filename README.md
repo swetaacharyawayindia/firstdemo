@@ -11,7 +11,7 @@ The goal of this project is to learn and implement:
 - GET and POST API methods
 - PostgreSQL 17 database integration
 - JSON request and response handling
-- API testing using Swagger UI
+- API testing using Postman
 
 This project acts as a **foundation** for building more advanced backend applications.
 
